@@ -29,12 +29,10 @@ __Melhoria 1__, _melhoria 2_
 3. Sistema de bônus primeira compra
 
 #### Imagem local
-
 ![Nanda Git](img/ChatGPT%20Image%2017%20de%20jun.%20de%202025,%2017_47_48.png)
 
 #### Imagem externa
 
-![logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.sgv)
-
+![preso](https://f.i.uol.com.br/fotografia/2024/11/21/1732216591673f870facaf2_1732216591_3x2_md.jpg)
 
 
