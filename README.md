@@ -32,4 +32,9 @@ __Melhoria 1__, _melhoria 2_
 
 ![Nanda Git](img/ChatGPT%20Image%2017%20de%20jun.%20de%202025,%2017_47_48.png)
 
+#### Imagem externa
+
+![logo PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.sgv)
+
+
 
