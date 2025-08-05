@@ -44,3 +44,5 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://github.com/codecomnanda
 
+[![Moraes](https://assets.portalleodias.com/2024/04/Alexandre-Moraes-1.png)](https://oglobo.globo.com/politica/noticia/2025/08/04/moraes-decreta-prisao-domiciliar-de-bolsonaro.ghtml)
+
