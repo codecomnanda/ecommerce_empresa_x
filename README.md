@@ -1,4 +1,4 @@
-# ecommerce_empresa_x
+# ecommerce_empresa_x 
 Este é uma **e-commerce** para *empresa X*. 
 
 # Funcionalidades
@@ -28,6 +28,8 @@ __Melhoria 1__, _melhoria 2_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+#### Imagem local
 
+![Nanda Git](img/ChatGPT%20Image%2017%20de%20jun.%20de%202025,%2017_47_48.png)
 
 
