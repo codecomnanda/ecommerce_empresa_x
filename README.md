@@ -42,3 +42,5 @@ __Melhoria 1__, _melhoria 2_
 
 [https://linktr.ee/tiagosantineli](https://linktr.ee/tiagosantineli)
 
+Contribuidor principal: https://github.com/codecomnanda
+
